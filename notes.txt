@@ -1,0 +1,15 @@
+http://localhost:8000
+python -m http.server 8000
+
+
+
+Remove-Item -Recurse -Force .git force remoce reinitiakise pycharm
+ git status if got fatal its deleted
+
+
+how to push
+git init
+git add .
+git status
+git commit -m "Initial commit for PoC_HashBasedDataValidation"
+git push -u origin main/master
